@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Mipasaje</string>
+
+    <string name="title_activity_choose_company">chooseCompanyActivity</string>
+    <string name="title_activity_reserve">ReserveActivity</string>
+    <string name="title_activity_bus_layout">BusLayoutActivity</string>
+    <string name="title_activity_qrreader">QRReaderActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+
+    <string name="user_name">username</string>
+    <string name="user_password">password</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_new">Create New Account</string>
+    <string name="button_fb">Login with Facebook</string>
+    <string name="button_google">Login with Google+</string>
+    <string name="button_login">Login</string>
+    <string name="forgot_password">forgot password?</string>
+
+    <string name="user_email">Email</string>
+    <string name="user_repassword">Retype password</string>
+    <string name="button_signup">Sign Up</string>
+
+    <string name="company_name1">Company1</string>
+    <string name="company_name2">Company2</string>
+    <string name="company_name3">Company3</string>
+    <string name="company_name4">Company4</string>
+
+    <string name="origin">Origin</string>
+    <string name="destination">Destination</string>
+
+    <string name ="choose_date">Date</string>
+    <string name ="button_Date_choosen">Date choosen</string>
+    <string name ="choose_company">Company</string>
+    <string name ="button_Company_choosen">Company choosen</string>
+    <string name ="choose_time">Time</string>
+    <string name ="button_Time_choosen">Time choosen</string>
+    <string name ="bus_type">Bus Type</string>
+    <string name ="button_bustype_choosen">Bus type choosen &amp; Number</string>
+    <string name ="quantity_passagges">Quantity of passagges</string>
+    <string name ="button_quantity_passagges">Quantity choosen</string>
+    <string name ="button_price">Price</string>
+    <string name ="button_continue">Continue</string>
+    <string name ="button_origin">Origin cities</string>
+    <string name ="button_destination">Destination cities</string>
+
+
+</resources>
